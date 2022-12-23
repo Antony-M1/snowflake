@@ -2,3 +2,4 @@ venv
 
 .env
 .vscode
+large_tmp_volume
