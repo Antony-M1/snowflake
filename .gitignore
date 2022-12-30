@@ -2,4 +2,5 @@ venv
 
 .env
 .vscode
+.ipynb_checkpoints
 large_tmp_volume
